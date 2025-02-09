@@ -6,7 +6,7 @@
     "age": 37,
     "isActive": true,
     "birthDate": "1987-06-24",
-    "imageUrl": "https://example.com/images/lionel-messi.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/lionel_messi.jpg",
     "position": "Forward",
     "skills": ["Dribbling", "Passing", "Finishing"],
     "team": {
@@ -23,7 +23,7 @@
     "age": 40,
     "isActive": true,
     "birthDate": "1985-02-05",
-    "imageUrl": "https://example.com/images/cristiano-ronaldo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/cristiano_ronaldo.jpg",
     "position": "Forward",
     "skills": ["Heading", "Free Kicks", "Finishing"],
     "team": {
@@ -40,7 +40,7 @@
     "age": 33,
     "isActive": true,
     "birthDate": "1992-02-05",
-    "imageUrl": "https://example.com/images/neymar-jr.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/neymar_jr.jpg",
     "position": "Forward",
     "skills": ["Dribbling", "Creativity", "Speed"],
     "team": {
@@ -57,7 +57,7 @@
     "age": 26,
     "isActive": true,
     "birthDate": "1998-12-20",
-    "imageUrl": "https://example.com/images/kylian-mbappe.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/kylian_mbappe.jpg",
     "position": "Forward",
     "skills": ["Pace", "Finishing", "Dribbling"],
     "team": {
@@ -74,7 +74,7 @@
     "age": 33,
     "isActive": true,
     "birthDate": "1991-06-28",
-    "imageUrl": "https://example.com/images/kevin-de-bruyne.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/kevin_de_bruyne.jpg",
     "position": "Midfielder",
     "skills": ["Passing", "Vision", "Shooting"],
     "team": {
@@ -91,7 +91,7 @@
     "age": 36,
     "isActive": true,
     "birthDate": "1988-08-21",
-    "imageUrl": "https://example.com/images/robert-lewandowski.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/robert_lewandowski.jpg",
     "position": "Forward",
     "skills": ["Finishing", "Positioning", "Heading"],
     "team": {
@@ -108,7 +108,7 @@
     "age": 33,
     "isActive": true,
     "birthDate": "1991-07-08",
-    "imageUrl": "https://example.com/images/virgil-van-dijk.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/virgil_van_dijk.jpg",
     "position": "Defender",
     "skills": ["Tackling", "Aerial Duels", "Leadership"],
     "team": {
@@ -125,7 +125,7 @@
     "age": 32,
     "isActive": true,
     "birthDate": "1992-06-15",
-    "imageUrl": "https://example.com/images/mohamed-salah.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/mohamed_salah.jpg",
     "position": "Forward",
     "skills": ["Dribbling", "Pace", "Finishing"],
     "team": {
@@ -142,7 +142,7 @@
     "age": 38,
     "isActive": true,
     "birthDate": "1986-03-30",
-    "imageUrl": "https://example.com/images/sergio-ramos.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/sergio_ramos.jpg",
     "position": "Defender",
     "skills": ["Tackling", "Aerial Duels", "Leadership"],
     "team": {
@@ -159,7 +159,7 @@
     "age": 39,
     "isActive": true,
     "birthDate": "1985-09-09",
-    "imageUrl": "https://example.com/images/luka-modric.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/walidmehdadi/football-data-api/main/images/luka_modric.jpg",
     "position": "Midfielder",
     "skills": ["Passing", "Vision", "Ball Control"],
     "team": {
