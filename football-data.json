@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "name": "Lionel Messi",
+    "description": "Lionel Messi is een Argentijnse profvoetballer die speelt als aanvaller voor Inter Miami CF en het Argentijnse nationale team. Hij wordt algemeen beschouwd als een van de beste voetballers aller tijden.",
+    "age": 37,
+    "isActive": true,
+    "birthDate": "1987-06-24",
+    "imageUrl": "https://example.com/images/lionel-messi.jpg",
+    "position": "Forward",
+    "skills": ["Dribbling", "Passing", "Finishing"],
+    "team": {
+      "id": "IMCF",
+      "name": "Inter Miami CF",
+      "stadium": "Lockhart Stadium",
+      "foundedYear": 2018
+    }
+  },
+  {
+    "id": "2",
+    "name": "Cristiano Ronaldo",
+    "description": "Cristiano Ronaldo is een Portugese profvoetballer die speelt als aanvaller voor Al Nassr en het Portugese nationale team. Hij staat bekend om zijn snelheid, afwerking en fysieke kracht.",
+    "age": 40,
+    "isActive": true,
+    "birthDate": "1985-02-05",
+    "imageUrl": "https://example.com/images/cristiano-ronaldo.jpg",
+    "position": "Forward",
+    "skills": ["Heading", "Free Kicks", "Finishing"],
+    "team": {
+      "id": "Al-Nassr",
+      "name": "Al-Nassr",
+      "stadium": "Al-Awwal Park",
+      "foundedYear": 1955
+    }
+  },
+  {
+    "id": "3",
+    "name": "Neymar Jr.",
+    "description": "Neymar Jr. is een Braziliaanse profvoetballer die speelt als aanvaller voor Santos FC en het Braziliaanse nationale team. Hij staat bekend om zijn flair, dribbelvaardigheden en creativiteit op het veld.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1992-02-05",
+    "imageUrl": "https://example.com/images/neymar-jr.jpg",
+    "position": "Forward",
+    "skills": ["Dribbling", "Creativity", "Speed"],
+    "team": {
+      "id": "SFC",
+      "name": "Santos FC",
+      "stadium": "Estádio Urbano Caldeira",
+      "foundedYear": 1912
+    }
+  },
+  {
+    "id": "4",
+    "name": "Kylian Mbappé",
+    "description": "Kylian Mbappé is een Franse profvoetballer die speelt als aanvaller voor Real Madrid en het Franse nationale team. Hij staat bekend om zijn ongelooflijke snelheid en afwerkingsvermogen.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1998-12-20",
+    "imageUrl": "https://example.com/images/kylian-mbappe.jpg",
+    "position": "Forward",
+    "skills": ["Pace", "Finishing", "Dribbling"],
+    "team": {
+      "id": "RMCF",
+      "name": "Real Madrid",
+      "stadium": "Santiago Bernabéu",
+      "foundedYear": 1902
+    }
+  },
+  {
+    "id": "5",
+    "name": "Kevin De Bruyne",
+    "description": "Kevin De Bruyne is een Belgische profvoetballer die speelt als middenvelder voor Manchester City en het Belgische nationale team. Hij staat bekend om zijn visie, passing en schietvaardigheid.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1991-06-28",
+    "imageUrl": "https://example.com/images/kevin-de-bruyne.jpg",
+    "position": "Midfielder",
+    "skills": ["Passing", "Vision", "Shooting"],
+    "team": {
+      "id": "MCFC",
+      "name": "Manchester City",
+      "stadium": "Etihad Stadium",
+      "foundedYear": 1880
+    }
+  },
+  {
+    "id": "6",
+    "name": "Robert Lewandowski",
+    "description": "Robert Lewandowski is een Poolse profvoetballer die speelt als aanvaller voor FC Barcelona en het Poolse nationale team. Hij staat bekend om zijn afwerkingsvermogen en positionering.",
+    "age": 36,
+    "isActive": true,
+    "birthDate": "1988-08-21",
+    "imageUrl": "https://example.com/images/robert-lewandowski.jpg",
+    "position": "Forward",
+    "skills": ["Finishing", "Positioning", "Heading"],
+    "team": {
+      "id": "FCB",
+      "name": "FC Barcelona",
+      "stadium": "Camp Nou",
+      "foundedYear": 1899
+    }
+  },
+  {
+    "id": "7",
+    "name": "Virgil van Dijk",
+    "description": "Virgil van Dijk is een Nederlandse profvoetballer die speelt als verdediger voor Liverpool en het Nederlandse nationale team. Hij staat bekend om zijn verdedigende capaciteiten en leiderschap.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1991-07-08",
+    "imageUrl": "https://example.com/images/virgil-van-dijk.jpg",
+    "position": "Defender",
+    "skills": ["Tackling", "Aerial Duels", "Leadership"],
+    "team": {
+      "id": "LFC",
+      "name": "Liverpool FC",
+      "stadium": "Anfield",
+      "foundedYear": 1892
+    }
+  },
+  {
+    "id": "8",
+    "name": "Mohamed Salah",
+    "description": "Mohamed Salah is een Egyptische profvoetballer die speelt als aanvaller voor Liverpool en het Egyptische nationale team. Hij staat bekend om zijn snelheid, dribbelvaardigheden en afwerkingsvermogen.",
+    "age": 32,
+    "isActive": true,
+    "birthDate": "1992-06-15",
+    "imageUrl": "https://example.com/images/mohamed-salah.jpg",
+    "position": "Forward",
+    "skills": ["Dribbling", "Pace", "Finishing"],
+    "team": {
+      "id": "LFC",
+      "name": "Liverpool FC",
+      "stadium": "Anfield",
+      "foundedYear": 1892
+    }
+  },
+  {
+    "id": "9",
+    "name": "Sergio Ramos",
+    "description": "Sergio Ramos is een Spaanse profvoetballer die speelt als verdediger voor CF Monterrey en het Spaanse nationale team. Hij staat bekend om zijn agressieve speelstijl, leiderschap en kopkracht.",
+    "age": 38,
+    "isActive": true,
+    "birthDate": "1986-03-30",
+    "imageUrl": "https://example.com/images/sergio-ramos.jpg",
+    "position": "Defender",
+    "skills": ["Tackling", "Aerial Duels", "Leadership"],
+    "team": {
+      "id": "CFM",
+      "name": "CF Monterrey",
+      "stadium": "Estadio BBVA",
+      "foundedYear": 1945
+    }
+  },
+  {
+    "id": "10",
+    "name": "Luka Modrić",
+    "description": "Luka Modrić is een Kroatische profvoetballer die speelt als middenvelder voor Real Madrid en het Kroatische nationale team. Hij staat bekend om zijn precisiepassing, balcontrole en spelinzicht.",
+    "age": 39,
+    "isActive": true,
+    "birthDate": "1985-09-09",
+    "imageUrl": "https://example.com/images/luka-modric.jpg",
+    "position": "Midfielder",
+    "skills": ["Passing", "Vision", "Ball Control"],
+    "team": {
+      "id": "RMCF",
+      "name": "Real Madrid",
+      "stadium": "Santiago Bernabéu",
+      "foundedYear": 1902
+    }
+  }
+]
